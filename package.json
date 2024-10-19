@@ -1,0 +1,26 @@
+{
+  "name": "data-structure-typescript",
+  "version": "1.0.0",
+  "description": "This is data structure written in TypeScript, the stuctures are commonly used in interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperXMA/data-structure-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "data-structure"
+  ],
+  "author": "xinrui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeveloperXMA/data-structure-typescript/issues"
+  },
+  "homepage": "https://github.com/DeveloperXMA/data-structure-typescript#readme",
+  "devDependencies": {
+    "vitest": "^2.1.3"
+  }
+}
